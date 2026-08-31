@@ -86,6 +86,7 @@ A camada gold já foi pensada pra servir de base pra alguns usos de IA/ML no fut
 dashboards/
   media_estado.png
   media_regiao.png
+  15_piores_cidades.png
 notebooks/
   bronze/
     batch_ingestao.ipynb
